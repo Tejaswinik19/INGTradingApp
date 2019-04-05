@@ -1,2 +1,2 @@
-# ING_Trading_Java
+# INGTradingApp
 for Java code
